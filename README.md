@@ -1,24 +1,38 @@
 # Python Daily Practice
 
-This repository contains my daily Python practice programs. I am practicing Python every day to improve my programming and problem-solving skills.
+This repository contains my daily Python practice programs. I practice Python every day to improve my programming, problem-solving, and logical thinking skills.
 
 ## Day 01 - Basic Programs
 
+### Programs
 - Even or Odd
 - Leap Year
 
+### Concepts Practiced
+- User Input
+- Variables
+- Arithmetic Operators
+- Conditional Statements
+
+---
+
 ## Day 02 - Loops
 
+### Programs
 - Factorial
 - Fibonacci Series
 
+### Concepts Practiced
+- for Loop
+- while Loop
+- Loop Control
+- Pattern of Iteration
+
+---
+
 ## Day 03 - Conditional Statements
 
-### 📌 Topic
-Python Conditional Statements (`if`, `elif`, `else`)
-
-### 📝 Programs
-
+### Programs
 1. Even or Odd
 2. Positive, Negative, or Zero
 3. Largest of Two Numbers
@@ -35,7 +49,7 @@ Python Conditional Statements (`if`, `elif`, `else`)
 14. Profit or Loss
 15. Electricity Bill Calculator
 
-### 🎯 Concepts Practiced
+### Concepts Practiced
 
 - if Statement
 - if-else Statement
@@ -44,14 +58,46 @@ Python Conditional Statements (`if`, `elif`, `else`)
 - Logical Operators (`and`, `or`, `not`)
 - Decision Making
 
+---
+
+## Day 04 - Python Calculator Programs
+
+### Programs
+
+1. Simple Interest Calculator
+2. Compound Interest Calculator
+3. Discount Calculator
+4. GST Calculator
+5. Gross Salary Calculator
+6. Net Salary Calculator
+7. Profit and Loss Calculator
+8. Percentage and Average Calculator
+
+### Concepts Practiced
+
+- Variables
+- User Input
+- Arithmetic Operators
+- Percentage Calculations
+- Mathematical Formulas
+- if-elif-else Statements
+
+---
+
 ## 🚀 Goals
 
 - Learn Python Fundamentals
 - Improve Problem-Solving Skills
 - Build a Strong GitHub Portfolio
-- Prepare for Coding Interviews and LeetCode
+- Prepare for Coding Interviews
+- Practice Daily and Stay Consistent
+
+---
 
 ## 👩‍💻 Author
 
-**Faryal Shaik**  
-B.Tech CSE Student | Learning Python Daily | Building Problem-Solving Skills
+**Faryal Shaik**
+
+B.Tech Computer Science and Engineering (CSE) Student
+
+Python Learner | Problem Solver | Building Projects Daily
