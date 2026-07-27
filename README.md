@@ -82,6 +82,36 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Mathematical Formulas
 - if-elif-else Statements
 
+
+---
+
+## Day 05 - Loop Programs
+
+### Programs
+
+1. Print 1 to N
+2. Print N to 1
+3. Sum of N Natural Numbers
+4. Multiplication Table
+5. Even Numbers
+6. Odd Numbers
+7. Count Digits
+8. Reverse Number
+9. Palindrome Number
+10. Sum of Digits
+11. Product of Digits
+12. Largest Digit
+
+### Concepts Practiced
+
+- for Loop
+- while Loop
+- range()
+- Conditional Statements
+- Arithmetic Operators
+- Number Manipulation
+
+
 ---
 
 ## 🚀 Goals
