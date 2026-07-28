@@ -111,6 +111,30 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Arithmetic Operators
 - Number Manipulation
 
+-----
+
+
+## Day 06 - Advanced Loop Programs
+
+### Programs
+
+1. Smallest Digit
+2. Prime Number
+3. Prime Numbers in a Range
+4. Armstrong Number
+5. Perfect Number
+
+### Concepts Practiced
+
+- while Loop
+- for Loop
+- Nested Loops
+- Number Manipulation
+- Modulus Operator (`%`)
+- Integer Division (`//`)
+- Mathematical Logic
+
+
 
 ---
 
