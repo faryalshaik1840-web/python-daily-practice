@@ -5,10 +5,12 @@ This repository contains my daily Python practice programs. I practice Python ev
 ## Day 01 - Basic Programs
 
 ### Programs
+
 - Even or Odd
 - Leap Year
 
 ### Concepts Practiced
+
 - User Input
 - Variables
 - Arithmetic Operators
@@ -19,10 +21,12 @@ This repository contains my daily Python practice programs. I practice Python ev
 ## Day 02 - Loops
 
 ### Programs
+
 - Factorial
 - Fibonacci Series
 
 ### Concepts Practiced
+
 - for Loop
 - while Loop
 - Loop Control
@@ -33,6 +37,7 @@ This repository contains my daily Python practice programs. I practice Python ev
 ## Day 03 - Conditional Statements
 
 ### Programs
+
 1. Even or Odd
 2. Positive, Negative, or Zero
 3. Largest of Two Numbers
@@ -82,7 +87,6 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Mathematical Formulas
 - if-elif-else Statements
 
-
 ---
 
 ## Day 05 - Loop Programs
@@ -111,8 +115,7 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Arithmetic Operators
 - Number Manipulation
 
------
-
+---
 
 ## Day 06 - Advanced Loop Programs
 
@@ -134,7 +137,31 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Integer Division (`//`)
 - Mathematical Logic
 
+---
 
+## Day 07 - Pattern Programs
+
+### Programs
+
+1. Right Triangle
+2. Inverted Right Triangle
+3. Left Triangle
+4. Inverted Left Triangle
+5. Square Pattern
+6. Rectangle Pattern
+7. Pyramid Pattern
+8. Inverted Pyramid
+9. Diamond Pattern
+10. Hollow Square Pattern
+
+### Concepts Practiced
+
+- Nested for Loops
+- range() Function
+- Pattern Logic
+- Rows and Columns
+- Formatted Output
+- `print(end="")`
 
 ---
 
