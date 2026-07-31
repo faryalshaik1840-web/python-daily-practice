@@ -161,7 +161,36 @@ This repository contains my daily Python practice programs. I practice Python ev
 - Pattern Logic
 - Rows and Columns
 - Formatted Output
-- `print(end="")`
+- print(end="")
+
+--------------
+
+
+
+## Day 08 - Number Pattern Programs
+
+### Programs
+
+1. Number Triangle
+2. Repeated Number Triangle
+3. Reverse Number Triangle
+4. Reverse Repeated Number Triangle
+5. Number Pyramid
+6. Reverse Number Pyramid
+7. Floyd's Triangle
+8. Continuous Number Pattern
+9. Hollow Number Square
+10. Number Diamond
+
+### Concepts Practiced
+
+- Nested for Loops
+- Number Pattern Logic
+- range() Function
+- Rows and Columns
+- Counter Variables
+- Formatted Output
+- print(end="")
 
 ---
 
