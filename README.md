@@ -194,16 +194,6 @@ This repository contains my daily Python practice programs. I practice Python ev
 
 ---
 
-## 🚀 Goals
-
-- Learn Python Fundamentals
-- Improve Problem-Solving Skills
-- Build a Strong GitHub Portfolio
-- Prepare for Coding Interviews
-- Practice Daily and Stay Consistent
-
----
-
 ## Day 09 - Alphabet Pattern Programs
 
 ### Programs
@@ -213,6 +203,7 @@ This repository contains my daily Python practice programs. I practice Python ev
 3. Reverse Alphabet Triangle
 4. Reverse Repeated Alphabet Triangle
 5. Alphabet Pyramid
+
 
 ### Concepts Practiced
 
@@ -226,6 +217,39 @@ This repository contains my daily Python practice programs. I practice Python ev
 - print(end="")
 
 ---
+
+## Day 10 - Advanced Pattern Programs
+
+### Programs
+
+1. Butterfly Pattern
+2. Hollow Butterfly Pattern
+3. Sandglass Pattern
+4. Hollow Sandglass Pattern
+5. Hourglass Pattern
+
+### Concepts Practiced
+
+- Nested for Loops
+- Advanced Pattern Logic
+- Symmetry
+- Space Management
+- Hollow Pattern Design
+- Formatted Output
+- `print(end="")`
+
+---
+
+## 🚀 Goals
+
+- Learn Python Fundamentals
+- Improve Problem-Solving Skills
+- Build a Strong GitHub Portfolio
+- Prepare for Coding Interviews
+- Practice Daily and Stay Consistent
+
+---
+
 
 
 ## 👩‍💻 Author
