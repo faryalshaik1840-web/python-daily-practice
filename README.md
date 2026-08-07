@@ -240,6 +240,30 @@ This repository contains my daily Python practice programs. I practice Python ev
 
 ---
 
+
+## Day 11 - Advanced Pattern Programs (Part 2)
+
+### Programs
+
+1. X Pattern
+2. Hollow Diamond Pattern
+3. Zigzag Pattern
+4. Plus Pattern
+5. Hollow Pyramid Pattern
+
+### Concepts Practiced
+
+- Nested for Loops
+- Pattern Logic
+- Hollow Pattern Design
+- Symmetry
+- Space Management
+- Row and Column Calculations
+- Formatted Output
+- `print(end="")`
+
+---
+
 ## 🚀 Goals
 
 - Learn Python Fundamentals
